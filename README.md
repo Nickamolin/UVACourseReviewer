@@ -2,18 +2,27 @@
 
 <h2>Description</h2>
 
- - Designed and programmed a user interface where individuals can create accounts, login, and read/write reviews for courses taught at UVA (with all interactions handled through varying JavaFX panes)
- - Model and Controller components created via Java, Interface via FXML, underlying Database via SQLite
+ - This application consists of a user interface that allows students to create accounts, login, and read/write reviews for courses taught at UVA.
+ - The program implements a Model-View-Controller architecture via SQLite (Model), JavaFX (View), and Java (Controller)
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages Used</h2>
 
 - <b>Java</b> 
-- <b>More</b>
+- <b>FXML</b>
+- <b>SQL</b>
 
-<h2>Environments Used </h2>
+<h2>Environments Used</h2>
 
-- <b>IntelliJ</b>
-- <b>SceneBuilder</b>
+- <b>IntelliJ IDEA</b>
+- <b>Scene Builder</b>
+- <b>[SQLite Viewer](https://inloop.github.io/sqlite-viewer/)</b>
+
+<h2>Dependencies</h2>
+
+- <b>JavaFX</b>
+- <b>SQLite JDBC</b>
+- <b>Gradle</b>
+- <b>JUnit Jupiter</b>
 
 <h2>Program walk-through:</h2>
 
